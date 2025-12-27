@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 79.99,
+    "image": "https://img.daisyui.com/images/stock/photo-1505740420928-5e560c06d30e.webp",
+    "description": "High-quality wireless headphones with noise cancellation",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 199.99,
+    "image": "https://img.daisyui.com/images/stock/photo-1523275335684-37898b6baf30.webp",
+    "description": "Advanced smartwatch with fitness tracking",
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "name": "USB-C Cable",
+    "price": 14.99,
+    "image": "https://img.daisyui.com/images/stock/photo-1572635196237-14b3f281503f.webp",
+    "description": "Durable USB-C charging cable",
+    "category": "Accessories"
+  },
+  {
+    "id": 4,
+    "name": "Portable Charger",
+    "price": 34.99,
+    "image": "https://img.daisyui.com/images/stock/photo-1523275335684-37898b6baf30.webp",
+    "description": "20000mAh portable power bank",
+    "category": "Electronics"
+  },
+  {
+    "id": 5,
+    "name": "Phone Case",
+    "price": 24.99,
+    "image": "https://img.daisyui.com/images/stock/photo-1491553895911-0055eca6402d.webp",
+    "description": "Protective phone case with premium materials",
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "name": "Screen Protector",
+    "price": 9.99,
+    "image": "https://img.daisyui.com/images/stock/photo-1523275335684-37898b6baf30.webp",
+    "description": "Tempered glass screen protector",
+    "category": "Accessories"
+  }
+]
