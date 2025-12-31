@@ -3,7 +3,7 @@ import Home from '@/pages/Home'
 import CartPage from '@/pages/CartPage'
 import Checkout from '@/pages/Checkout'
 import ProductDetail from '@/pages/ProductDetail'
-import '@/index.css'
+import './App.css'  // Keep this import
 
 function App() {
   return (
